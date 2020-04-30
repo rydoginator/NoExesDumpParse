@@ -1,0 +1,14 @@
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\bin\Release\NoExesDumpParse.exe.config
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\bin\Release\NoExesDumpParse.exe
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\bin\Release\NoExesDumpParse.pdb
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\DumpParser.g.cs
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\App.g.cs
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse_MarkupCompile.cache
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse_MarkupCompile.lref
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\DumpParser.baml
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse.g.resources
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse.Properties.Resources.resources
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse.exe
+C:\Users\Ryan\source\repos\NoExesDumpParse\NoExesDumpParse\obj\Release\NoExesDumpParse.pdb
