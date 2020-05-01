@@ -9,9 +9,13 @@ namespace NoExesDumpParse
 {
     internal interface IDumpDataReader
     {
-        PointerInfo Read(CancellationToken token, IProgress<int> prog);
-        long TryToParseAbs(List<IReverseOrderPath> path);
-        Address TryToParseRel(List<IReverseOrderPath> path);
+        List<NoexsDumpIndex> Read();
+        //long TryToParseAbs(List<IReverseOrderPath> path);
+        Int64 ReadLittleEndianInt64(long address);
+
+        long GetMain();
+        long GetHeap();
+        //Address TryToParseRel(List<IReverseOrderPath> path);
         bool IsHeap(long address);
     }
 }

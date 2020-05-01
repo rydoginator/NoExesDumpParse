@@ -154,7 +154,7 @@ namespace NoExesDumpParse
             return false;
         }
 
-        static public async Task<List<List<IReverseOrderPath>>> NarrowDown(CancellationToken token, IProgress<int> prog, List<List<IReverseOrderPath>> list, Dictionary<IDumpDataReader, long> dumps)
+        /*static public async Task<List<List<IReverseOrderPath>>> NarrowDown(CancellationToken token, IProgress<int> prog, List<List<IReverseOrderPath>> list, Dictionary<IDumpDataReader, long> dumps)
         {
             int totalCount = list.Count;
             int checkedCount = 0;
@@ -208,5 +208,7 @@ namespace NoExesDumpParse
             prog.Report(100);
             return ndlist;
         }
+        */
     }
+
 }
